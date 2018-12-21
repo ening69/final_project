@@ -14,7 +14,7 @@ output:
     self_contained: no
 # All fa icons were obtained from https://fontawesome.com/icons?d=gallery
 navbar:
-  title: "Patrollin New York State"
+  title: "Patrolling New York State"
   left:
     - text: "Blogpost"
       href: index.html
